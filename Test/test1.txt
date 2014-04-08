@@ -1,3 +1,9 @@
 
+<<<<<<< HEAD
 Hello.. tHIS IS Test1
 
+=======
+Hello
+Hi
+How are you?	
+>>>>>>> 294c9c1108888bbedeac51bea4a97fd417cb6970
