@@ -1,4 +1,9 @@
 
+<<<<<<< HEAD
 Hello
 Hi
 How are you?	
+=======
+Hello.. tHIS IS Test1
+
+>>>>>>> master
